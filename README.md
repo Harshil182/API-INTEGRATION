@@ -24,3 +24,7 @@ The project helps in understanding important front-end development concepts such
 
 This Interactive Quiz Application is useful for educational purposes, online tests, and self-assessment platforms. It provides a simple and user-friendly interface that enhances learning and makes quizzes more interactive and enjoyable.
 
+output 
+<img width="905" height="707" alt="image" src="https://github.com/user-attachments/assets/077bb104-32e1-40ed-b44a-b1ab3d0e08f7" />
+
+
